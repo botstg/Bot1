@@ -3,4 +3,5 @@ requests==2.31.0
 python-dotenv==1.0.0
 tzdata==2023.4  # Solo necesario para Python < 3.9 en Windows
 backports.zoneinfo==0.2.1  # Solo necesario para Python < 3.9
+
 python3
